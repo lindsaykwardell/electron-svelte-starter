@@ -2,7 +2,7 @@
 
 ---
 
-# svelte app
+# electron-svelte app
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template. It has been extended to build an Electron application by following [this article](https://dev.to/o_a_e/getting-started-with-electron-and-svelte-2gn8).
 
